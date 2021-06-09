@@ -1,0 +1,1 @@
+web: gunicorn webllisto.wsgi --log-file -
